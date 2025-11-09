@@ -40,7 +40,7 @@ const Hero = () => {
             <MapPin className="h-4 w-4" /> Bengaluru • India
           </div>
           <a
-            href="https://www.linkedin.com/"
+            href="https://www.linkedin.com/in/jain04/"
             target="_blank"
             rel="noreferrer"
             className="inline-flex items-center gap-2 rounded-full bg-white/10 px-5 py-2 font-medium text-white ring-1 ring-white/20 backdrop-blur transition hover:bg-white/20"
@@ -48,7 +48,7 @@ const Hero = () => {
             <Linkedin className="h-4 w-4" /> LinkedIn
           </a>
           <a
-            href="https://github.com/"
+            href="https://github.com/jain04"
             target="_blank"
             rel="noreferrer"
             className="inline-flex items-center gap-2 rounded-full bg-white/10 px-5 py-2 font-medium text-white ring-1 ring-white/20 backdrop-blur transition hover:bg-white/20"
